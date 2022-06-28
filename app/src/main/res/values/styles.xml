@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Widget.UnitConverter.TextView" parent="Widget.MaterialComponents.TextView">
+        <item name="android:gravity">center_vertical</item>
+        <item name="minHeight">48dp</item>
+        <item name="fontFamily">@font/arvo</item>
+        <item name="android:textColor">?attr/colorPrimary</item>
+    </style>
+</resources>
