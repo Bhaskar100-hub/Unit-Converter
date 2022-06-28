@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <color name="light_blue_200_opacity55">#5581D4FA</color>
     <color name="light_blue_200">#81D4FA</color>
     <color name="light_blue_500">#03A9F4</color>
     <color name="light_blue_700">#0288D1</color>
